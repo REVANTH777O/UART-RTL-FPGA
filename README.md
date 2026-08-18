@@ -22,7 +22,6 @@ This project implements:
 - Loopback Verification
 
 ---
-
 # Features
 
 - Synthesizable Verilog RTL
