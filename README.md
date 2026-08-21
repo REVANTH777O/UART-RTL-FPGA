@@ -3,9 +3,6 @@
 A synthesizable UART (Universal Asynchronous Receiver Transmitter) implemented in **Verilog HDL** and verified using **Xilinx Vivado**.
 
 This project demonstrates RTL design methodology, finite state machine (FSM) implementation, baud rate generation, functional verification, and complete UART loopback communication.
-
----
-
 # Project Overview
 
 UART (Universal Asynchronous Receiver Transmitter) is one of the most widely used asynchronous serial communication protocols.
