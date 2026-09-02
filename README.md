@@ -10,7 +10,6 @@ UART (Universal Asynchronous Receiver Transmitter) is one of the most widely use
 Unlike SPI or I2C, UART does not require a shared clock between the transmitter and receiver. Instead, both transmitter and receiver independently generate timing from an agreed baud rate.
 
 This project implements:
-
 - UART Transmitter
 - UART Receiver
 - Baud Rate Generator
