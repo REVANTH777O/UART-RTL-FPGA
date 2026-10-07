@@ -19,7 +19,6 @@ This project implements:
 ---
 # Features
 
-
 - Synthesizable Verilog RTL
 - FSM Based UART Transmitter
 - FSM Based UART Receiver
