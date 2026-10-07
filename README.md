@@ -8,7 +8,6 @@ This project demonstrates RTL design methodology, finite state machine (FSM) imp
 UART (Universal Asynchronous Receiver Transmitter) is one of the most widely used asynchronous serial communication protocols.
 
 Unlike SPI or I2C, UART does not require a shared clock between the transmitter and receiver. Instead, both transmitter and receiver independently generate timing from an agreed baud rate.
-
 This project implements:
 - UART Transmitter
 - UART Receiver
